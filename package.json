@@ -1,0 +1,16 @@
+{
+  "name": "weather-journal-app",
+  "version": "1.0.0",
+  "description": "fun",
+  "main": "lol.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5"
+  }
+}
